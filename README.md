@@ -24,3 +24,33 @@
 
 
 ---
+
+
+# 🚀 Day 2 - [10-5-2025]
+
+## ✅ What I Did
+- Solved **1 easy Leetcode problem** focused on **Arrays**.
+- Practiced problems from the **Sets** chapter in Class 11 Math.
+- Created a GitHub repo 📁 named **Cheatcheet** and added cheatsheets for:
+  - NumPy, Pandas, Matplotlib, Seaborn, Plotly, and Scikit-learn.
+- Posted on **LinkedIn** about **Agentic AI**, contributing to public learning and visibility.
+
+## 🔧 Tools / Topics Covered
+- Leetcode (Arrays)
+- Class 11 Mathematics: Sets
+- Python Libraries Cheatsheet Creation
+- AI Concept: Agentic AI
+- GitHub & LinkedIn for personal branding
+
+## 📘 What I Learned
+- Strengthened understanding of array manipulation in DSA.
+- Practiced core set operations (Union, Intersection, etc.)
+- Explored AI concepts like **Agentic AI** — a step forward toward becoming an AI engineer.
+- Realized the importance of knowledge documentation (cheatsheets) and community sharing.
+
+## 🌱 Growth Reflection
+- Publishing on LinkedIn and pushing to GitHub means you’re **not just learning — you're building a brand.**
+- Today had learning, creation, and communication — a perfect triangle for growth.
+
+
+---
