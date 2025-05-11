@@ -54,3 +54,31 @@
 
 
 ---
+
+
+# 🚀 Day 3 - [11-5-2025]
+
+## ✅ What I Did
+- Solved **1 easy Leetcode problem** (Arrays).
+- Explored **Polynomial problems** in Class 11 Math (instead of Sets — smart topic switch).
+- Created a new markdown file in my **Cheatcheet repo**:
+  - `MachineLearning_Terminologies.md` with 10 core ML terms simplified.
+- Posted on **LinkedIn** for engagement (ML learning discussion).
+
+## 🔧 Tools / Topics Covered
+- Leetcode (Arrays)
+- Class 9 Mathematics: Polynomials
+- Machine Learning: Bias, Variance, Overfitting, Model, Algorithm, etc.
+- GitHub (Cheatcheet repo update)
+- LinkedIn for AI visibility
+
+## 📘 What I Learned
+- Refreshed polynomial basics — a solid math foundation for ML equations.
+- Clarified key ML terms, reinforcing early understanding.
+- Continued coding fluency through problem-solving.
+
+## 🌱 Growth Reflection
+- Flexibility is a superpower — shifting from Sets to Polynomials still moved me forward in Math.
+
+
+---
