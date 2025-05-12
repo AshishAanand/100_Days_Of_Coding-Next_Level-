@@ -82,3 +82,33 @@
 
 
 ---
+
+
+# 🚀 Day 104 - 100 Days of Code & Personal Growth
+
+## ✅ What I Did
+- 🧠 Practiced **Matplotlib** instead of DSA:
+  - Explored different plot types (line, bar, histogram, scatter).
+  - Learned styling and customization for better data visuals.
+- 📚 Studied **Graphs of Polynomials (Degree 2 & 3)**:
+  - Watched a visual explanation and solved 5 graph-based problems.
+- 🤖 Updated `Cheatcheet` repo with:
+  - `ML_Workflow_Simplified.md`: Included the ML pipeline from data collection to deployment.
+- 💡 Bonus: Brainstormed **3 AI product ideas**:
+  1. Homework Doubt Solver for Students  
+  2. Smart Grocery Reminder System  
+  3. Auto Email Summarizer for Professionals
+
+## 🔧 Tools / Topics Covered
+- Matplotlib (Python Data Visualization)
+- Polynomial Graphs (Math Class 10)
+- Machine Learning Workflow (Project Planning)
+- Ideation (AI-based product concepts)
+
+## 📘 What I Learned
+- Visualizing data with Matplotlib is crucial for interpreting ML models.
+- Polynomial graphs help build intuition for real-world curve-based data.
+- ML isn't magic — it’s a **structured pipeline** from messy data to useful predictions.
+
+
+---
