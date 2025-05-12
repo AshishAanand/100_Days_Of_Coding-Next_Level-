@@ -84,7 +84,7 @@
 ---
 
 
-# 🚀 Day 104 - 100 Days of Code & Personal Growth
+# 🚀 Day 4 - [12-5-2025]
 
 ## ✅ What I Did
 - 🧠 Practiced **Matplotlib** instead of DSA:
