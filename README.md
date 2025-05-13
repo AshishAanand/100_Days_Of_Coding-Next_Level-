@@ -112,3 +112,27 @@
 
 
 ---
+
+# 🚀 Day 5 - [13-5-2025]
+
+## ✅ What I Did
+- ✅ Solved **1 easy Leetcode problem** using the **Two Pointers** approach.
+- 📊 Practiced **Graphs of Polynomials** (Class 11 Math):
+  - Continued graph interpretation and curve analysis.
+  - Strengthened intuition for how coefficients affect graph shape.
+
+
+## 🔧 Tools / Topics Covered
+- Leetcode (Two Pointers Pattern)
+- Class 11 Math – Polynomial Graphs (Degree 2 & 3)
+
+
+## 📘 What I Learned
+- Graphs reveal how algebra transforms visually — useful in ML too.
+- Two Pointers help solve many optimal subarray problems efficiently.
+- Matplotlib skills are improving — more control = better storytelling with data.
+
+
+
+---
+
