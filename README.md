@@ -82,3 +82,57 @@
 
 
 ---
+
+
+# 🚀 Day 4 - [12-5-2025]
+
+## ✅ What I Did
+- 🧠 Practiced **Matplotlib** instead of DSA:
+  - Explored different plot types (line, bar, histogram, scatter).
+  - Learned styling and customization for better data visuals.
+- 📚 Studied **Graphs of Polynomials (Degree 2 & 3)**:
+  - Watched a visual explanation and solved 5 graph-based problems.
+- 🤖 Updated `Cheatcheet` repo with:
+  - `ML_Workflow_Simplified.md`: Included the ML pipeline from data collection to deployment.
+- 💡 Bonus: Brainstormed **3 AI product ideas**:
+  1. Homework Doubt Solver for Students  
+  2. Smart Grocery Reminder System  
+  3. Auto Email Summarizer for Professionals
+
+## 🔧 Tools / Topics Covered
+- Matplotlib (Python Data Visualization)
+- Polynomial Graphs (Math Class 10)
+- Machine Learning Workflow (Project Planning)
+- Ideation (AI-based product concepts)
+
+## 📘 What I Learned
+- Visualizing data with Matplotlib is crucial for interpreting ML models.
+- Polynomial graphs help build intuition for real-world curve-based data.
+- ML isn't magic — it’s a **structured pipeline** from messy data to useful predictions.
+
+
+---
+
+# 🚀 Day 5 - [13-5-2025]
+
+## ✅ What I Did
+- ✅ Solved **1 easy Leetcode problem** using the **Two Pointers** approach.
+- 📊 Practiced **Graphs of Polynomials** (Class 11 Math):
+  - Continued graph interpretation and curve analysis.
+  - Strengthened intuition for how coefficients affect graph shape.
+
+
+## 🔧 Tools / Topics Covered
+- Leetcode (Two Pointers Pattern)
+- Class 11 Math – Polynomial Graphs (Degree 2 & 3)
+
+
+## 📘 What I Learned
+- Graphs reveal how algebra transforms visually — useful in ML too.
+- Two Pointers help solve many optimal subarray problems efficiently.
+- Matplotlib skills are improving — more control = better storytelling with data.
+
+
+
+---
+
