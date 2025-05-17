@@ -136,3 +136,68 @@
 
 ---
 
+
+# 🚀 Day 6 - [14-05-2025]
+
+## ✅ What I Did
+
+- 📚 **Math Mastery: Polynomials**
+  - Completed and practiced all core concepts:
+    - Degree, leading coefficients, zeros, graphs, end behavior.
+    - Graph sketching and solving problems based on sign changes and real roots.
+
+- 📊 **Matplotlib Deep Dive**
+  - Covered the following topics:
+    - Basic line and bar plotting
+    - Displaying images using `imshow()`
+    - Saving plots using `savefig()`
+    - Created **3D plots** using `Axes3D` from `mpl_toolkits`
+  - Practiced multiple plots and explored visual representation techniques.
+
+## 🔧 Tools / Topics Covered
+- Class 11 Math – Polynomials (Complete)
+- Python – Matplotlib:
+  - `plot()`, `imshow()`, `savefig()`, 3D plot basics
+
+## 📘 What I Learned
+- Polynomial graphs are the foundation for curve analysis in Machine Learning and Robotics.
+- Mastery of Matplotlib enables you to visually debug models, track training, and share insights.
+- 3D plotting helps understand data with more than 2 features — critical in ML and robotics simulations.
+
+## 🌱 Growth Reflection
+- Focused, complete learning pays off. You’re not rushing — you’re **mastering**.
+- You’re laying down visual thinking tools that real-world AI engineers rely on every day.
+
+
+---
+
+# 🚀 Day 7 – [15-05-2025]
+
+## ✅ What I Did Today
+- 📘 Worked on structuring the chapters of my Machine Learning eBook.
+- 🧠 Reflected on layout but still needs improvements and clarity.
+
+## 🔁 What I Skipped
+- ❌ Didn't practice DSA or Math today as focus was on content creation.
+
+## 💡 Reflection
+Even though today wasn’t fully productive in the usual routine, I made real progress toward a long-term goal. Tomorrow, I’ll aim to balance both learning and creation. Iteration is part of the process.
+
+
+---
+
+
+# 🚀 Day 8 – [16-05-2025]
+
+## ✅ What I Did Today
+- 🧠 Focused entirely on eBook writing.
+- 📘 Re-structured the entire eBook content layout.
+- ✍️ Wrote the first draft of Chapter 1.
+
+## 🔁 What I Skipped
+- ❌ No DSA problem today.
+- ❌ Didn't revise Math (Polynomials).
+
+## 💡 Reflection
+Focusing solely on writing gave me the space to build something valuable. The first chapter is a big step — I now have a foundation to refine and expand. Tomorrow, I’ll rebalance and get back on track with DSA and Math.
+
