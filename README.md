@@ -199,5 +199,53 @@ Even though today wasn’t fully productive in the usual routine, I made real pr
 - ❌ Didn't revise Math (Polynomials).
 
 ## 💡 Reflection
-Focusing solely on writing gave me the space to build something valuable. The first chapter is a big step — I now have a foundation to refine and expand. Tomorrow, I’ll rebalance and get back on track with DSA and Math.
+Focusing solely on writing gave me the space to build something valuable. The first chapter is a big step — I now have a foundation to refine and expand.
+
+
+---
+
+
+# 🚀 Machine learning Journey started !
+
+# 🚀 Day 9 – [17-05-2025]
+
+## ✅ What I Did Today
+- 📊 Started learning **Statistics** from Class 10.
+- 🤖 Began Machine Learning journey officially!
+- 📈 Learned about **Linear Regression**:
+  - Understood the concept and working of linear regression.
+  - Implemented linear regression (likely using Python).
+  - Explored how the line of best fit is calculated.
+  
+## 🔁 What I Skipped
+- ❌ Didn't solve DSA today.
+- ❌ No work done on the eBook.
+
+## 💡 Reflection
+Linear Regression gave me a practical, intuitive start to ML. Learning stats in parallel helped connect the theory with real-world data insights. This was a high-value learning day!
+
+
+---
+
+
+# 🚀 Day 10 – [18-05-2025]
+
+## ✅ What I Did Today
+- 🤖 Machine Learning:
+  - Learned and practiced **Polynomial Regression**.
+  - Explored **Multiple Linear Regression** and implemented it.
+  - Understood **Regularization techniques** (Ridge, Lasso - intro).
+  - Learned **MAE, MSE, RMSE** as error evaluation metrics.
+
+- 📘 eBook Progress:
+  - Polished Chapter 1 draft.
+  - Fixed content structure issues.
+  - Reorganized the entire chapter layout for better flow.
+
+## 🔁 What I Skipped
+- ❌ Did not solve DSA today.
+- ❌ No explicit Class 10 Math or Statistics work.
+
+## 💡 Reflection
+Today was a deep dive into core ML fundamentals. I now understand how to evaluate model accuracy and prevent overfitting. These concepts are crucial for every ML model I’ll build in the future. Also, restructuring my eBook gave me a clearer vision for my writing journey.
 
