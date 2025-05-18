@@ -225,3 +225,27 @@ Focusing solely on writing gave me the space to build something valuable. The fi
 Linear Regression gave me a practical, intuitive start to ML. Learning stats in parallel helped connect the theory with real-world data insights. This was a high-value learning day!
 
 
+---
+
+
+# 🚀 Day 10 – [18-05-2025]
+
+## ✅ What I Did Today
+- 🤖 Machine Learning:
+  - Learned and practiced **Polynomial Regression**.
+  - Explored **Multiple Linear Regression** and implemented it.
+  - Understood **Regularization techniques** (Ridge, Lasso - intro).
+  - Learned **MAE, MSE, RMSE** as error evaluation metrics.
+
+- 📘 eBook Progress:
+  - Polished Chapter 1 draft.
+  - Fixed content structure issues.
+  - Reorganized the entire chapter layout for better flow.
+
+## 🔁 What I Skipped
+- ❌ Did not solve DSA today.
+- ❌ No explicit Class 10 Math or Statistics work.
+
+## 💡 Reflection
+Today was a deep dive into core ML fundamentals. I now understand how to evaluate model accuracy and prevent overfitting. These concepts are crucial for every ML model I’ll build in the future. Also, restructuring my eBook gave me a clearer vision for my writing journey.
+
