@@ -249,3 +249,26 @@ Linear Regression gave me a practical, intuitive start to ML. Learning stats in 
 ## 💡 Reflection
 Today was a deep dive into core ML fundamentals. I now understand how to evaluate model accuracy and prevent overfitting. These concepts are crucial for every ML model I’ll build in the future. Also, restructuring my eBook gave me a clearer vision for my writing journey.
 
+
+
+---
+
+
+# 🚀 Day 11 – [19-05-2025]
+
+## ✅ What I Did Today
+
+### 🤖 Machine Learning
+- ✅ Built a **Student Score Predictor** using **Linear Regression**.
+- ✅ Followed the full ML pipeline:
+  - Data cleaning & preprocessing
+  - Model training using `LinearRegression`
+  - Evaluated performance using **MSE** and **R² Score**
+- ✅ Took a **basic understanding of Logistic Regression** and how it differs from Linear Regression.
+
+### 🧠 Math & DSA
+- ❌ No DSA or Statistics practice today due to focus on ML project.
+
+## 💡 Reflection
+Today was a shift from theory to application. Practicing real-world ML improved my confidence. I now understand how to handle datasets, train models, and measure performance. It’s satisfying to see predictions work based on real numbers!
+
