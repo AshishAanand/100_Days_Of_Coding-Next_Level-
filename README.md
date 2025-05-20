@@ -272,3 +272,31 @@ Today was a deep dive into core ML fundamentals. I now understand how to evaluat
 ## 💡 Reflection
 Today was a shift from theory to application. Practicing real-world ML improved my confidence. I now understand how to handle datasets, train models, and measure performance. It’s satisfying to see predictions work based on real numbers!
 
+
+---
+
+
+# 🚀 Day 12 – [20-05-2025]
+
+## ✅ What I Did Today
+
+### 🤖 Machine Learning
+- ✅ Learned and implemented **Logistic Regression**.
+- ✅ Built a full project: **Iris Flower Classification** using Scikit-learn.
+  - Preprocessed data
+  - Trained model
+  - Evaluated accuracy and predictions
+- ✅ Took a **basic introduction to KNN (K-Nearest Neighbors)**:
+  - Understood how instance-based learning works.
+  - Difference between parametric (LogReg) and non-parametric (KNN).
+
+### 📘 eBook Progress
+- ✅ **Completed the first chapter**: *History of Machine Learning*.
+- 📌 Revised structure and ensured clarity for readers.
+
+### 📊 Math & DSA
+- ❌ No math or DSA challenge done today – redirected focus on ML & writing.
+
+## 💡 Reflection
+I'm finally combining **theory + real implementation + content creation**. Creating a project gave me clarity on ML workflows, and writing made me more confident in my understanding.
+
