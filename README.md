@@ -300,3 +300,28 @@ Today was a shift from theory to application. Practicing real-world ML improved 
 ## 💡 Reflection
 I'm finally combining **theory + real implementation + content creation**. Creating a project gave me clarity on ML workflows, and writing made me more confident in my understanding.
 
+
+---
+
+
+# Day 15 – [23-05-2025]
+
+## ✅ Tasks Completed:
+- Understood core math behind Decision Trees:
+  - Entropy & Information Gain
+  - Gini Index
+- Researched how split decisions are made
+- Created the foundational structure for the ML Algorithms GitHub Repo
+  - Organized by algorithm with sections for:
+    - What it is
+    - Why & When to use
+    - Requirements
+    - Pros & Cons
+
+## ⏳ Pending:
+- Implementation of Decision Tree from scratch (to be done soon)
+
+## 💡 Reflection:
+> "Every line of structure you create now becomes a future pillar of mastery."
+
+---
