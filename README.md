@@ -325,3 +325,28 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 > "Every line of structure you create now becomes a future pillar of mastery."
 
 ---
+
+
+# Day 16 – [24-05-2025]
+
+## ✅ Project Work:
+- Built a machine learning model to **predict student stress levels**
+- Tested multiple classification algorithms:
+  - Decision Tree
+  - Random Forest
+  - KNN
+  - Logistic Regression (final choice)
+- Evaluated each model's performance using metrics like accuracy & F1 score
+- Chose Logistic Regression due to better generalization in this case
+
+## ✅ Documentation Work:
+- Added in-depth docs for several classification & regression algorithms
+  - What it is
+  - When & Why to use
+  - Code Examples
+  - Pros and Cons
+
+## 💡 Insight:
+> "The power of ML isn’t in the models — it’s in how we **choose and adapt** them to the problem."
+
+---
