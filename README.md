@@ -372,3 +372,16 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 ## 💡 Insight:
 > "Naive Bayes seems too simple — until it silently beats more complex models in real-world cases."
 
+
+---
+
+
+# Day 19 - [27-5-2025]
+
+## Achievements
+- Created a **Spam Detector model** achieving **97% accuracy** using Naive Bayes.
+- Studied **Statistics (Class 9)** topics.
+- Revised **Physics (Newton’s Laws of Motion)** for 10 minutes.
+
+---
+
