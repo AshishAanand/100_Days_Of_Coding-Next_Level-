@@ -350,3 +350,25 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 > "The power of ML isn’t in the models — it’s in how we **choose and adapt** them to the problem."
 
 ---
+
+
+# Day 17 – [25-5-2025]
+
+## ✅ What I Did Today:
+- Focused on understanding and implementing **Naive Bayes Classification**
+- Covered concepts like:
+  - Conditional probability
+  - Bayes' Theorem
+  - Assumptions of feature independence
+- Learned about types:
+  - Gaussian Naive Bayes
+  - Multinomial Naive Bayes
+  - Bernoulli Naive Bayes
+
+## ✅ Tasks Completed:
+- 📘 Learned Naive Bayes theory in depth
+
+
+## 💡 Insight:
+> "Naive Bayes seems too simple — until it silently beats more complex models in real-world cases."
+
