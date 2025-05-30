@@ -385,3 +385,12 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 
 ---
 
+# ✅ Day 22 - [30-05-2025]
+
+
+- Learned **K-Means Clustering**
+- Studied Physics: NLM (Kinetic Friction)
+- Realized the importance of having a **structured ML roadmap** to avoid confusion.
+
+
+# I apologize from myself because I am not consistently loging my days and not following routines properly.
