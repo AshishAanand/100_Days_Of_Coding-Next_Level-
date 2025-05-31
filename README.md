@@ -394,3 +394,39 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 
 
 # I apologize from myself because I am not consistently loging my days and not following routines properly.
+
+
+---
+
+
+# 🚀 Day 23 - [31-05-2025]
+
+## ✅ What I Did Today
+
+- 🧠 Revisited **Supervised Learning**:
+  - Learned the **basics of SLP (Single Layer Perceptron)** and **MLP (Multi-Layer Perceptron)**.
+  - Understood how these are foundational to neural networks.
+
+- 📊 Started learning the **math behind ML algorithms**:
+  - 📌 Focused on **Linear Regression**.
+  - Researched the key mathematical concepts:
+    - Cost Function
+    - Gradient Descent
+    - Mean Squared Error
+    - Linear Equation format (y = mx + c)
+    - Partial derivatives and optimization
+
+- ✍️ Solved **statistics problems** to strengthen math fundamentals.
+
+
+## 📌 Key Decisions & Reflections
+
+- Decided to **deeply understand** the mathematics of every algorithm learned or to be learned.
+- Felt frustrated due to:
+  - ❌ Not posting content on **LinkedIn** or **YouTube**.
+  - 🧠 Lack of **content ideas** and laptop limitations.
+  - ⚡ Not showcasing my learning consistently.
+
+
+---
+
