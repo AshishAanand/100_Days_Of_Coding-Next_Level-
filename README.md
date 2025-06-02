@@ -430,3 +430,21 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 
 ---
 
+## ✅ Day 25 - [2-06-2025]
+
+### 📌 Topics Covered:
+- 📐 Dug deep into the **mathematics behind Polynomial Regression**:
+  - Concept of fitting a non-linear curve to the data using polynomial features.
+  - Explored how linear regression adapts when we transform features into higher-degree polynomials.
+
+- 🧠 Understood key formulas:
+  - `y = b0 + b1x + b2x² + ... + bnxⁿ`
+  - Applied **feature transformation** using `PolynomialFeatures` in `sklearn`.
+
+### 💻 Project: Sentiment Analysis
+- Created a **Sentiment Analysis Model**:
+  - Collected and preprocessed text data.
+  - Transformed text using **TF-IDF Vectorizer**.
+  - Trained a classifier to predict sentiment (positive/negative).
+  - Evaluated using **accuracy**
+
