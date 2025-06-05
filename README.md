@@ -448,3 +448,26 @@ I'm finally combining **theory + real implementation + content creation**. Creat
   - Trained a classifier to predict sentiment (positive/negative).
   - Evaluated using **accuracy**
 
+
+---
+
+## 🚀 Day 28 – End-to-End ML Project with Streamlit
+
+**Date:**[5-06-2025]  
+**Status:** ✅ Completed  
+**Focus Area:** Machine Learning + Deployment
+
+### ✅ What I Did:
+- Cleaned and preprocessed the dataset
+- Trained and evaluated ML model
+- Used performance metrics (e.g., accuracy, MSE, R²)
+- Integrated the model into a **Streamlit app** for real-time prediction
+- Created a simple, interactive UI for user inputs
+
+### 🧠 Learnings:
+- Practiced full ML workflow from data to web app
+- Understood how ML logic connects with frontend UI
+- Took first step toward **ML app
+
+
+---
