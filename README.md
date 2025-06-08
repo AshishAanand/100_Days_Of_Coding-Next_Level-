@@ -499,3 +499,30 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 ## 🧠 Learnings
 - What is Notion?
 - How it works and its potential in managing complex workflows
+
+
+---
+
+
+# 🚀 Day 31: ML + Life Mastery Journey
+
+## 📅 Date: [8-06-2025]
+
+## ✅ What I Did Today
+- 🧠 **Learned the basics of MLOps**
+  - Understood what MLOps is and its role in the ML pipeline
+  - Explored how it connects model building, deployment, and operations
+- 🧩 **Created a Habit Tracker in Notion**
+  - Designed a daily habit-tracking system
+  - Focused on routine-building and accountability
+  - Aligned with my martial arts, study, and ML routines
+
+## 📘 Learnings
+- MLOps bridges the gap between ML model development and deployment/maintenance
+- Notion can serve as a powerful dashboard for self-management
+
+## 📌 Notes
+- Consistency > Intensity — tracking habits will compound results over time
+- MLOps will be key once you start deploying real-world ML apps — keep building this foundation
+
+  
