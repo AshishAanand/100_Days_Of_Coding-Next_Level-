@@ -471,3 +471,31 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 
 
 ---
+
+# 🚀 Day 30: ML + Productivity Journey Log
+
+## 📅 Date: [7-06-2025]
+
+## 📌 Highlights
+- 🧩 Explored **Notion** for productivity, learning management, and routine planning.
+- ✅ Understood core features of Notion such as:
+  - Pages and Subpages
+  - Databases (Table, Kanban, Calendar, Gallery)
+  - Toggles, Checklists, and Templates
+- 🛠️ Took the first step towards building a **central productivity system** to manage:
+  - ML Learning Journey
+  - Academic Schedule
+  - YouTube and Content Planning
+  - Freelance and Business Vision
+  - Martial Arts Training Routine
+
+## 🔍 Reflections
+- 💡 Realized the potential of Notion as a "Second Brain"
+- 🎯 Plan to build a modular Notion dashboard customized for:
+  - Tracking ML/AI projects
+  - Documenting daily learning
+  - Managing goals & routines
+
+## 🧠 Learnings
+- What is Notion?
+- How it works and its potential in managing complex workflows
