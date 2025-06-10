@@ -526,3 +526,46 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 - MLOps will be key once you start deploying real-world ML apps — keep building this foundation
 
   
+---
+
+
+### 📅 Day 32 – [9-06-2025]
+
+**✅ Completed:**
+
+* Built an Unsupervised Learning project analyzing global country data to determine which nations need support based on **economic** and **health conditions**.
+* Explored the **entire ML workflow**:
+
+  * From **model development** to **deployment**, **monitoring**, and **maintenance**.
+  * Understood concepts like **CI/CD pipelines** and industry-level **ML infrastructure**.
+* Learned about key MLOps tools used at various stages (e.g., Git, DVC, MLflow, Docker, Kubernetes, etc.).
+
+**📌 Notes:**
+
+> “Today I saw the bigger picture of what it means to bring ML into production — not just building, but deploying and maintaining real-world impact.”
+
+
+---
+
+### ✅ Day 33 – [10-06-2025]
+
+**🧠 What I Learned:**
+
+* 📌 **DBSCAN (Density-Based Spatial Clustering):**
+
+  * Understood the core intuition behind density-based clustering.
+  * Practiced and applied DBSCAN in place of KMeans on my previous project.
+  * Observed **better clustering performance**, especially for non-linear clusters.
+
+* 🧮 **Model Evaluation Metrics (Revisited):**
+
+  * Refreshed key metrics like Accuracy, Precision, Recall, F1-Score, AUC-ROC.
+  * Understood **how different metrics apply to different problem types**.
+
+* 📊 **Statistics (Class 11):**
+
+  * Continued my academic learning with a lecture on statistics.
+
+---
+
+
