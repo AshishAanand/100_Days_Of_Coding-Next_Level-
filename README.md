@@ -385,3 +385,144 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 
 ---
 
+# ✅ Day 22 - [30-05-2025]
+
+
+- Learned **K-Means Clustering**
+- Studied Physics: NLM (Kinetic Friction)
+- Realized the importance of having a **structured ML roadmap** to avoid confusion.
+
+
+# I apologize from myself because I am not consistently loging my days and not following routines properly.
+
+
+---
+
+
+# 🚀 Day 23 - [31-05-2025]
+
+## ✅ What I Did Today
+
+- 🧠 Revisited **Supervised Learning**:
+  - Learned the **basics of SLP (Single Layer Perceptron)** and **MLP (Multi-Layer Perceptron)**.
+  - Understood how these are foundational to neural networks.
+
+- 📊 Started learning the **math behind ML algorithms**:
+  - 📌 Focused on **Linear Regression**.
+  - Researched the key mathematical concepts:
+    - Cost Function
+    - Gradient Descent
+    - Mean Squared Error
+    - Linear Equation format (y = mx + c)
+    - Partial derivatives and optimization
+
+- ✍️ Solved **statistics problems** to strengthen math fundamentals.
+
+
+## 📌 Key Decisions & Reflections
+
+- Decided to **deeply understand** the mathematics of every algorithm learned or to be learned.
+- Felt frustrated due to:
+  - ❌ Not posting content on **LinkedIn** or **YouTube**.
+  - 🧠 Lack of **content ideas** and laptop limitations.
+  - ⚡ Not showcasing my learning consistently.
+
+
+---
+
+## ✅ Day 25 - [2-06-2025]
+
+### 📌 Topics Covered:
+- 📐 Dug deep into the **mathematics behind Polynomial Regression**:
+  - Concept of fitting a non-linear curve to the data using polynomial features.
+  - Explored how linear regression adapts when we transform features into higher-degree polynomials.
+
+- 🧠 Understood key formulas:
+  - `y = b0 + b1x + b2x² + ... + bnxⁿ`
+  - Applied **feature transformation** using `PolynomialFeatures` in `sklearn`.
+
+### 💻 Project: Sentiment Analysis
+- Created a **Sentiment Analysis Model**:
+  - Collected and preprocessed text data.
+  - Transformed text using **TF-IDF Vectorizer**.
+  - Trained a classifier to predict sentiment (positive/negative).
+  - Evaluated using **accuracy**
+
+
+---
+
+## 🚀 Day 28 – End-to-End ML Project with Streamlit
+
+**Date:**[5-06-2025]  
+**Status:** ✅ Completed  
+**Focus Area:** Machine Learning + Deployment
+
+### ✅ What I Did:
+- Cleaned and preprocessed the dataset
+- Trained and evaluated ML model
+- Used performance metrics (e.g., accuracy, MSE, R²)
+- Integrated the model into a **Streamlit app** for real-time prediction
+- Created a simple, interactive UI for user inputs
+
+### 🧠 Learnings:
+- Practiced full ML workflow from data to web app
+- Understood how ML logic connects with frontend UI
+- Took first step toward **ML app
+
+
+---
+
+# 🚀 Day 30: ML + Productivity Journey Log
+
+## 📅 Date: [7-06-2025]
+
+## 📌 Highlights
+- 🧩 Explored **Notion** for productivity, learning management, and routine planning.
+- ✅ Understood core features of Notion such as:
+  - Pages and Subpages
+  - Databases (Table, Kanban, Calendar, Gallery)
+  - Toggles, Checklists, and Templates
+- 🛠️ Took the first step towards building a **central productivity system** to manage:
+  - ML Learning Journey
+  - Academic Schedule
+  - YouTube and Content Planning
+  - Freelance and Business Vision
+  - Martial Arts Training Routine
+
+## 🔍 Reflections
+- 💡 Realized the potential of Notion as a "Second Brain"
+- 🎯 Plan to build a modular Notion dashboard customized for:
+  - Tracking ML/AI projects
+  - Documenting daily learning
+  - Managing goals & routines
+
+## 🧠 Learnings
+- What is Notion?
+- How it works and its potential in managing complex workflows
+
+
+---
+
+
+# 🚀 Day 31: ML + Life Mastery Journey
+
+## 📅 Date: [8-06-2025]
+
+## ✅ What I Did Today
+- 🧠 **Learned the basics of MLOps**
+  - Understood what MLOps is and its role in the ML pipeline
+  - Explored how it connects model building, deployment, and operations
+- 🧩 **Created a Habit Tracker in Notion**
+  - Designed a daily habit-tracking system
+  - Focused on routine-building and accountability
+  - Aligned with my martial arts, study, and ML routines
+
+## 📘 Learnings
+- MLOps bridges the gap between ML model development and deployment/maintenance
+- Notion can serve as a powerful dashboard for self-management
+
+## 📌 Notes
+- Consistency > Intensity — tracking habits will compound results over time
+- MLOps will be key once you start deploying real-world ML apps — keep building this foundation
+
+  
