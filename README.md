@@ -569,3 +569,25 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 ---
 
 
+# 🚀 Day 34 - [11-06-2025]
+
+## ✅ What I Did Today:
+- 📊 Learned **Hierarchical Clustering**
+  - Understood the concept of hierarchy in clustering
+  - Studied how dendrograms work and how to interpret them
+  - Explored how it's different from K-Means and DBSCAN
+
+## 🧠 Key Concepts Learned:
+- Types of Hierarchical Clustering:
+  - 🔹 Agglomerative (bottom-up)
+  - 🔹 Divisive (top-down)
+- Linkage Methods:
+  - 🔸 Single linkage
+  - 🔸 Complete linkage
+  - 🔸 Average linkage
+- How dendrograms can help decide the number of clusters
+- When and why to use Hierarchical Clustering over other methods
+
+## 📌 Reflections:
+- This technique helped me think more visually about how clusters are formed.
+- Now I understand how hierarchy and distance metrics influence cluster formation.
