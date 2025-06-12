@@ -591,3 +591,14 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 ## 📌 Reflections:
 - This technique helped me think more visually about how clusters are formed.
 - Now I understand how hierarchy and distance metrics influence cluster formation.
+
+
+---
+
+# 🚀 Day 35 - [12-06-2025]
+
+## 📌 What I Learned Today:
+- Started learning **Principal Component Analysis (PCA)** — a dimensionality reduction technique.
+- Understood the basic idea of PCA but faced difficulty grasping the math due to lack of **Linear Algebra** knowledge.
+
+
