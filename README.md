@@ -602,3 +602,14 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 - Understood the basic idea of PCA but faced difficulty grasping the math due to lack of **Linear Algebra** knowledge.
 
 
+---
+
+
+### ✅ Day 36 – [13-06-2025]
+
+**What I Did Today:**
+- 🔍 Learned what Deep Learning (DL) is and how it's different from traditional ML.
+- 🧠 Explored the types of Deep Learning (ANN, CNN, RNN, etc.).
+- 💡 Understood the concept of a Perceptron — the basic building block of neural networks.
+- 🛠️ Learned how a Perceptron works and how to implement it.
+
