@@ -613,3 +613,25 @@ I'm finally combining **theory + real implementation + content creation**. Creat
 - 💡 Understood the concept of a Perceptron — the basic building block of neural networks.
 - 🛠️ Learned how a Perceptron works and how to implement it.
 
+
+---
+
+
+# 🚀 Day 37: [14-06-2025]
+
+## ✅ What I Did Today:
+- 📊 Completed Class 11 Statistics (to build strong math fundamentals for ML/DL)
+- 🤖 Started learning **Artificial Neural Networks (ANNs)** in a structured way
+- ⚙️ Practiced building and training a **Perceptron** and **MLPClassifier** on real datasets using `scikit-learn`
+- 🧠 Understood key concepts behind ANNs:
+  - Structure of neurons (input layer, hidden layers, output layer)
+  - Introduction to **Multilayer Perceptron (MLP)**
+- 🔁 Explored the use of **ML Pipelines** for clean and modular ML code
+- 💡 Discovered the **Universal Approximation Theorem** and its role in ANN
+
+## 🧠 Concepts Learned:
+- Perceptron working & implementation
+- Basics of MLP (Multilayer Perceptrons)
+- Universal Approximation Theorem: ANNs can approximate any continuous function given enough neurons/layers
+- ML Pipelines: Preprocessing + Modeling in a streamlined pipeline
+
